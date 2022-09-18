@@ -46,7 +46,7 @@
 1973: Gründung Electronic Visualization Laboratory (EVL) (Tom DeFanti und Dan Sandin)
 197x: VIDEOPLACE (Artificial Reality Lab, Uni Connecticut)
 1979: erster Motorola 68000 (32bit)
-1983: Buch "Artifical Reality" (Myron W. Krueger)
+1983: Buch "Artificial Reality" (Myron W. Krueger)
 1984: erste Spracherkennung mit Trigrammstatistiken (IBM)
 1988: Ivan Sutherland erhält ACM Touring Award
 1989: GROPE 3: 3D Eingabegerät mit 6-dimensionaler Rückkopplung
