@@ -20,7 +20,7 @@
 1955: "The cinema of the future" (Morton Heilig)
 1957: "Devices for Reading Handwritten Characters" (Tom Dimond, Bell Labs)
 1957: Selbstversuch von J.C.R. Licklider zur Analyse der eigenen Arbeit zur Schlussfolgerung auf interaktive Arbeit mit Computer
-1958: DAC-1 (IBM und GM)
+1958: Start Entwicklung DAC-1 (IBM und GM)
 1958: erstes Computerspiel ("Tennis for two")
 1960: "Man-Computer Symbiosis) (J.C.R. Licklider)
 1961: Patentschrift Sensorama (Morton Heilig)
@@ -29,6 +29,7 @@
 1963: "Intergalactic Computer Network" (Licklider u.a., Ideen des Internets)
 1963: Sketchpad (Ivan Sutherland)
 1964: Ivan Sutherland wird Leider des IPTO des ARPA
+1964: Vorstellung DAC-1 (IBM und GM)
 1965: Bob Taylor wird Leiter des IPTO des APRA
 1968: erstes VR-System (Sutherland, Sproull)
 1967: erster Echtzeit-Flugsimulator (Cohan) -> Clipping Algotithmus
@@ -93,6 +94,7 @@
 2009: "Sixth Sense" (Projektor und Kamera um Hals, Gesternsteuerung)
 2010: iPad
 2010: "Skinput" (Haut als Eingabegerät)
+2010: Playstation Move
 2010: Word Lens (Live Übersetzung mit Kamera)
 2011: "Surface2" (multi-touch Tisch, Microsoft)
 2011: Siri
