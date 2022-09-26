@@ -70,10 +70,13 @@
 1989: Definition "Virtual Reality" (Jaron Lanier)
 1990: Implementierung erster HTTP Server und Client
 1991: World Wide Web
+1991: erster Browser (WWW -> Nexus)
+1991: erster Cross Platform Browser (Line Mode Browser)
 1991: Digital Desk (Pierre Wellner, EuroPARC)
 1991: "The Computer for the 21st century" (Mark Weise) (Ubiquitious Computing)
 1991: Psion Serie 3
 1992: erste CAVE (Cruz-Neira, DeFanti, Sadin)
+1992: Definition "Augmented Reality" (Tom Caudell, Boing)
 1992: Ende der Produktion des Atari 2600
 1992: erste grafische Browser (Erwise / ViolaWWW)
 1993: Mosaic (Browser)
